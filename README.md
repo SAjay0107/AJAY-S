@@ -1,2 +1,0 @@
-# AJAY-S
-test code
